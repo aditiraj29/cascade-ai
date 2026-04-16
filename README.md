@@ -1,4 +1,5 @@
 # 🚀 Cascade AI — Network Failure Prediction Dashboard
+##Live Demo https://cascade-ai-blue.vercel.app/
 
 ## 📌 Overview
 
@@ -87,15 +88,6 @@ index.html
 * Double click (browser)
   OR
 * Live Server (recommended)
-
----
-
-## 🌐 Deployment
-
-This project can be deployed easily using:
-
-* Vercel
-* Netlify
 
 ---
 
